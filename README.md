@@ -40,23 +40,15 @@ Also, because this dataset is built using queries from the AOL Query Logs, pleas
 _Pass et al., A Picture of Search, ICPS 2006_
 ```bibtex
 @inproceedings{DBLP:conf/infoscale/PassCT06,
-    author    = {Greg Pass and
-                Abdur Chowdhury and
-                Cayley Torgeson},
+    author    = {Greg Pass and Abdur Chowdhury and Cayley Torgeson},
     editor    = {Xiaohua Jia},
     title     = {A picture of search},
     booktitle = {Proceedings of the 1st International Conference on Scalable
                 Information Systems, Infoscale 2006, Hong Kong, May 30-June 1,
                 2006},
-    series    = {{ACM} International Conference Proceeding Series},
-    volume    = {152},
-    pages     = {1},
     publisher = {{ACM}},
     year      = {2006},
     url       = {https://doi.org/10.1145/1146847.1146848},
     doi       = {10.1145/1146847.1146848},
-    timestamp = {Tue, 06 Nov 2018 16:57:28 +0100},
-    biburl    = {https://dblp.org/rec/conf/infoscale/PassCT06.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
