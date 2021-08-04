@@ -22,16 +22,17 @@ Cooming Soon!
 Please cite the following if you use this dataset in any way:  
 _Bassani et al., Semantic Query Labeling Through Synthetic Query Generation, SIGIR 2021_
 ```bibtex
-@inproceedings{bassani2021,
-    author    = {Elias Bassani and Gabriella Pasi},
-    title     = {Semantic Query Labeling Through Synthetic Query Generation},
-    booktitle = {Proceedings of the 44th International {ACM} {SIGIR} Conference on
-                Research and Development in Information Retrieval, {SIGIR} 2021,
-                Virtual Event, Canada, July 11–15, 2021},
-    publisher = {{ACM}},
-    year      = {2021},
-    url       = {https://doi.org/10.1145/3404835.3463071},
-    doi       = {10.1145/3404835.3463071},
+@inproceedings{DBLP:conf/sigir/BassaniP21,
+  author    = {Elias Bassani and Gabriella Pasi},
+  title     = {Semantic Query Labeling Through Synthetic Query Generation},
+  booktitle = {{SIGIR} '21: The 44th International {ACM} {SIGIR} Conference on Research
+               and Development in Information Retrieval, Virtual Event, Canada, July
+               11-15, 2021},
+  pages     = {2278--2282},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3404835.3463071},
+  doi       = {10.1145/3404835.3463071},
 }
 ```
 
@@ -41,7 +42,6 @@ _Pass et al., A Picture of Search, ICPS 2006_
 ```bibtex
 @inproceedings{DBLP:conf/infoscale/PassCT06,
     author    = {Greg Pass and Abdur Chowdhury and Cayley Torgeson},
-    editor    = {Xiaohua Jia},
     title     = {A picture of search},
     booktitle = {Proceedings of the 1st International Conference on Scalable
                 Information Systems, Infoscale 2006, Hong Kong, May 30-June 1,
