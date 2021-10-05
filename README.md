@@ -19,7 +19,7 @@ Cooming Soon!
 
 ## Citations
 
-Please cite the following if you use this dataset in any way:  
+If you use this dataset in your research, please refer to the following papers:
 _Bassani et al., Semantic Query Labeling Through Synthetic Query Generation, SIGIR 2021_
 ```bibtex
 @inproceedings{DBLP:conf/sigir/BassaniP21,
@@ -28,14 +28,24 @@ _Bassani et al., Semantic Query Labeling Through Synthetic Query Generation, SIG
   booktitle = {{SIGIR} '21: The 44th International {ACM} {SIGIR} Conference on Research
                and Development in Information Retrieval, Virtual Event, Canada, July
                11-15, 2021},
-  pages     = {2278--2282},
   publisher = {{ACM}},
   year      = {2021},
-  url       = {https://doi.org/10.1145/3404835.3463071},
-  doi       = {10.1145/3404835.3463071},
 }
 ```
 
+_Bassani et al., On Building Benchmark Datasets for Understudied Information Retrieval Tasks: the Case of Semantic Query Labeling, IIR 2021_
+```bibtex
+@inproceedings{DBLP:conf/iir/BassaniP21,
+  author    = {Elias Bassani and
+               Gabriella Pasi},
+  title     = {On Building Benchmark Datasets for Understudied Information Retrieval
+               Tasks: the Case of Semantic Query Labeling},
+  booktitle = {Proceedings of the 11th Italian Information Retrieval Workshop 2021,
+               Bari, Italy, September 13-15, 2021},
+  publisher = {CEUR-WS.org},
+  year      = {2021},
+}
+```
 
 Also, because this dataset is built using queries from the AOL Query Logs, please cite:  
 _Pass et al., A Picture of Search, ICPS 2006_
@@ -48,7 +58,5 @@ _Pass et al., A Picture of Search, ICPS 2006_
                 2006},
     publisher = {{ACM}},
     year      = {2006},
-    url       = {https://doi.org/10.1145/1146847.1146848},
-    doi       = {10.1145/1146847.1146848},
 }
 ```
