@@ -19,7 +19,7 @@ Cooming Soon!
 
 ## Citations
 
-If you use this dataset in your research, please refer to the following papers:
+If you use this dataset in your research, please refer to the following papers:  
 _Bassani et al., Semantic Query Labeling Through Synthetic Query Generation, SIGIR 2021_
 ```bibtex
 @inproceedings{DBLP:conf/sigir/BassaniP21,
